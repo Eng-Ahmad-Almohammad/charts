@@ -8,3 +8,14 @@
 2- Include a canvas element inside the HTML Which will include the chart.
 
 3- Write the fllowing script in the foot of the body:
+![script](https://user-images.githubusercontent.com/70091044/93720680-44210380-fb93-11ea-95e7-e89799ecaecf.PNG)
+
+4- Add some information you need inside the script and Chart.js will draw the chart.
+
+## Drawing a pie chart
+
+1- Creat HTML body and [download Chart.js](https://github.com/nnnick/Chart.js),Copy the Chart.min.js out of the unzipped folder and into the directory you’ll be working in
+
+2- Include a canvas element inside the HTML Which will include the chart.
+
+3- 3- Write the fllowing script in the foot of the body:
